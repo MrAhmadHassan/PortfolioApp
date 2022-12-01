@@ -1,0 +1,62 @@
+
+/* header css */
+.Header{
+    height:100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #652D90;
+}
+/* login container css */
+.LoginContainer{
+    padding:30px;
+    height: 90vh;
+    width:35vw;
+    border-radius: 15px;
+    background-color: white;
+}
+
+
+/* logo container css */
+.logoContainer{
+    padding: 0 10px 0 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.handle_Input{
+    display: flex;
+    justify-content: space-between;
+}
+.handle_Input > handle_Input_2,handle_Input_1{
+    margin: 2px;
+}
+/* login button css */
+/* .loginbuttonContainer{
+    
+} */
+.loginbuttonContainer>button{
+    margin-top: 40px;
+    background-color: #652D90;
+    color: white;
+}
+.loginbuttonContainer>button:hover{
+    background-color: #652D90;
+}
+
+/* sign in button css */
+.sign_in>p>a{
+    text-decoration: none;
+    color: #652D90;
+}
+
+/* utility classes */
+.color_purple{
+    color:#652D90;
+}
+.color_grey{
+    color:#807E7D;
+}
