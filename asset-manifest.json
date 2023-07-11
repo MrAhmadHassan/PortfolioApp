@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PortfolioApp/static/css/main.2d39ae1f.css",
+    "main.js": "/PortfolioApp/static/js/main.633472f9.js",
+    "static/media/project1.jpg": "/PortfolioApp/static/media/project1.59468fe091e89754037b.jpg",
+    "static/media/project2.jpg": "/PortfolioApp/static/media/project2.cd30d4c0bdaa0f498d0e.jpg",
+    "static/media/Ahmad Hassan.jpg": "/PortfolioApp/static/media/Ahmad Hassan.e4e81ede7aef4d1fd76e.jpg",
+    "index.html": "/PortfolioApp/index.html",
+    "main.2d39ae1f.css.map": "/PortfolioApp/static/css/main.2d39ae1f.css.map",
+    "main.633472f9.js.map": "/PortfolioApp/static/js/main.633472f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d39ae1f.css",
+    "static/js/main.633472f9.js"
+  ]
+}
